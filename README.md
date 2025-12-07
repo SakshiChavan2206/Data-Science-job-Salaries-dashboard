@@ -31,10 +31,7 @@ Help hiring managers, recruiters, and job seekers quickly understand:
 - Data Source: `ds_salaries_cleaned.csv` (Kaggle dataset – cleaned using Python & SQL)
 - File included: `Data_Science_Job_Salaries_Dashboard.twbx` (packaged workbook – just open in Tableau)
 
-## Screenshots
-<img src="images/screenshot1.png" width="800"/>
-<img src="images/screenshot2.png" width="800"/>
-<img src="images/screenshot3.png" width="800"/>
+
 
 ## How to View the Dashboard
 1. Download the `.twbx` file from this repository
